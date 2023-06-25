@@ -1,0 +1,11 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "Nothing much, just doing my homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "nan"
+  },
+  "author": "Aditya Tiwari",
+  "license": "ISC"
+}
